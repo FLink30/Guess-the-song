@@ -29,4 +29,4 @@ During the winter semester 2022/23 we designed a music-app prototype from scratc
 - SmartWatch Prototype
 - Design refelction
 
-But try it on your own: [Guess the song](https://www.figma.com/proto/dheAHZ0U3SSNNY3MEXkmcL/Guess-the-Music?page-id=0%3A1&type=design&node-id=4-313&viewport=625%2C382%2C0.12&t=ANXZPnTwMWyUVkoD-1&scaling=scale-down&starting-point-node-id=258%3A957&mode=design) - good luck! 
+But [guess the song](https://www.figma.com/proto/dheAHZ0U3SSNNY3MEXkmcL/Guess-the-Music?page-id=0%3A1&type=design&node-id=4-313&viewport=625%2C382%2C0.12&t=ANXZPnTwMWyUVkoD-1&scaling=scale-down&starting-point-node-id=258%3A957&mode=design) on your own - good luck! 
