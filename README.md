@@ -1,7 +1,7 @@
 # Guess-the-song
 A music-game-app for children and teenagers. 
 
-During the winter semester 2022/23 we designed a music-app prototype from scratch. The app should include one special feature, so i decided to develop a music game, where the users can play against their friends and have to gues the song. While playing the game they can like the song and the app automatically generates a playlist, which is available for both players. 
+During the winter semester 2022/23 I designed a music-app prototype from scratch. The app should include one special feature, so i decided to develop a music game, where the users can play against their friends and have to guess songs. While playing the game they can like the song and the app automatically generates a playlist, which is available for both players. 
 
 ## Features:
 - the user can create their own playlists etc.
